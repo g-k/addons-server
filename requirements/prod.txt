@@ -87,9 +87,9 @@ argparse==1.4.0 \
 # billiard is required by celery
 billiard==3.5.0.4 \
     --hash=sha256:ed65448da5877b5558f19d2f7f11f8355ea76b3e63e1c0a6059f47cfae5f1c84
-bleach==1.5.0 \
-    --hash=sha256:e67f46adcec78dbc3c04462f3aba3213a673d5652eba2609ed1ef15492a44b8d \
-    --hash=sha256:978e758599b54cd3caa2e160d74102879b230ea8dc93871d0783721eef58bc65 # pyup: ==1.5.0
+bleach==3.1.4 \
+    --hash=sha256:cc8da25076a1fe56c3ac63671e2194458e0c4d9c7becfd52ca251650d517903c \
+    --hash=sha256:e78e426105ac07026ba098f04de8abe9b6e3e98b5befbf89b51a5ef0a4292b03 # pyup: ==1.5.0
 boto3==1.7.65 \
     --hash=sha256:24f2de3eb977f31f9acca2abf661f8ae5b0ce82f6847d458bb13332ada7d17c6 \
     --hash=sha256:c8492a53e0bfeca83fa03273dff7ab7d5ac5cf78a0ce1b7e9fc7f241ca6f4dd4
